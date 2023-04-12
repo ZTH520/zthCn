@@ -1,10 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZTH520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
-### Hi friend 👋
+### Hi friend 👋👏
 
 
-- 🔭  I am zthCn, a front-end development engineer graduated from Zstu.
-- 😋  I am just an ordinary person who enjoys coding and making toy projects for fun.
+- 👨🏻‍💻  I am zthCn, a front-end development engineer graduated from Zstu🇨🇳.
+- 😋  I am just an ordinary person, doing some ordinary things.
+- 🌅  I hope to do challenging things with excellent people
 - 🛠️ skills
 
     ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
