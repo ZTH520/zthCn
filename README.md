@@ -12,3 +12,11 @@
     ![Vite](https://img.shields.io/badge/-Vite-bd34fe?style=plastic&logo=vite)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+
+### 📈 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZTH520/zthCN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZTH520/zthCN/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZTH520/zthCN/output/github-contribution-grid-snake.svg">
+</picture>
