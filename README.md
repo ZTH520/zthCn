@@ -1,4 +1,6 @@
-### Hi Friend 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZTH520&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+
+### Hi friend 👋
 
 
 - 🔭  I am zthCn, a front-end development engineer graduated from Zstu.
